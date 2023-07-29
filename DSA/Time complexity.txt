@@ -1,0 +1,14 @@
+Time complexity 
+
+Add : do this, then when you are all done, do that
+	e.g. - for i in range(0,n):	-> O(n)
+	       	  print(i)
+	       for j in range(0,n):  	-> O(m)
+		  print(j)	 
+		TC -> O(n+m)
+
+Multiply : do this for each time you do that
+	e.g. - for i in range(0,n):		-> O(n)
+	           for j in range(0,n):  	-> O(m)
+		  	print(i,j)
+		TC -> O(n*m)
