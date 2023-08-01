@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-![Image20230801215102](https://github.com/hoodi1/CWS-Python/assets/71711191/90b7e1b8-bf96-4529-8fbf-8afefad77d72)
+![Image20230801215102](https://github.com/hoodi1/CWS-Python/assets/71711191/b6f102e3-e273-45a8-af08-c9216c0ca3e2)
 
 Welcome to my Python Learning Repository! This repository contains a collection of Python code files organized on a weekly basis. Each week's folder covers different topics related to Python, including Python basics, loops, functions, lists, and much more. This README will help you navigate through the repository and understand its structure.
 
